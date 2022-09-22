@@ -14,7 +14,7 @@ Minimum SDK: 32(API 32: Android API 32(Sv2))
 
 # Package Name ->
 
-com.example,grocerryapp
+com.example.grocerryapp
 
 # Demonstration Video Link ->
 
