@@ -1,10 +1,10 @@
 # SPSGP-90643-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 
-#Name
+# Name
 Kartikey Yadav
 
-#Application ID -> SPS_APL_20220100780
+# Application ID -> SPS_APL_20220100780
 
 # Project Name -> "GROCERY APP"
 
